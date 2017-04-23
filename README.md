@@ -2,7 +2,6 @@
 
 Hi everyone.
 
-I'm new to github. Besides being a professional developer for my work, I also work on some stuff at home.
 I started programming in the 1980's (when I was about 6 or 7 years old) with the Canon V-20 MSX Home computer
 and these days I'm very experienced with the Delphi language and IDE which i've been working with for over 12 years.
 
